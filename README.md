@@ -1,4 +1,4 @@
 # ArGynNet
 Arabic Gynecological Disease Classification Using Hybrid Deep Network
-#DataSet Link
+# DataSet Link
 https://huggingface.co/datasets/sahinurlaskar/ArGynNet
